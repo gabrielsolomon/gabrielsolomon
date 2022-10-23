@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+[![Gabriel Solomon StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=65503)](https://stackoverflow.com/users/65503/gabriel-solomon)
+
 <!--
 **gabrielsolomon/gabrielsolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
